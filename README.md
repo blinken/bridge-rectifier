@@ -4,7 +4,7 @@ A really simple project - a bridge rectifier, with a fuse, designed to be
 inserted into an aluminium case with banana plugs in and out. I wanted this to
 safely dump 2A @ 250V AC into my DC electronic load (don't ask!)
 
-<img src="./board.png" alt="Bridge rectifier PCB" width="200">
+<img src="./board.png" alt="Bridge rectifier PCB" width="300">
 
 ## Bill of materials
 
@@ -16,8 +16,8 @@ safely dump 2A @ 250V AC into my DC electronic load (don't ask!)
  * 220k resistor, 0.25W or 0.5W
  * An aluminium extrusion case suitable for a 70x114mm board - eg, [AliExpress](https://www.aliexpress.com/item/1005003326971939.html)
 
-<img src="./case.png" alt="Aluminium enclosure 70x115mm internal size" width="250">
-<img src="./case-diagram.png" alt="Aluminium enclosure, diagram with dimensions" width="250">
+<img src="./case.png" alt="Aluminium enclosure 70x115mm internal size" width="300">
+<img src="./case-diagram.png" alt="Aluminium enclosure, diagram with dimensions" width="300">
 
 ## License
 
