@@ -12,11 +12,11 @@ safely dump 2A @ 250V AC into my DC electronic load (don't ask!)
  * H100CHDL LED (RS 752-9084)
  * 1N4007 diode
  * 220k resistor, 0.25W or 0.5W
- * An aluminium extrusion case suitable for a 70x114mm board - eg, [https://www.aliexpress.com/item/1005003326971939.html]
+ * An aluminium extrusion case suitable for a 70x114mm board - eg, [AliExpress](https://www.aliexpress.com/item/1005003326971939.html)
 
 ![Aluminium enclosure 70x115mm internal size](./case.png "Aluminium enclosure 70x115mm internal size")
 ![Aluminium enclosure, diagram with dimensions](./case-diagram.png "Aluminium enclosure 70x115mm internal size")
 
 ## License
 
-[https://creativecommons.org/licenses/by-sa/3.0/](CC BY-SA 3.0)
+[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
