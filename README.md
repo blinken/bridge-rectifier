@@ -4,6 +4,12 @@ A really simple project - a bridge rectifier, with a fuse, designed to be
 inserted into an aluminium case with banana plugs in and out. I wanted this to
 safely dump 2A @ 250V AC into my DC electronic load (don't ask!)
 
+The board is designed with 5mm separation between different nets.
+
+The PCB is designed to slide in to rails in the aluminium extrusion, and the
+edges of the PCB are left exposed so earth is electrically connected to the
+enclosure.
+
 <img src="./board.png" alt="Bridge rectifier PCB" width="300">
 
 ## Bill of materials
